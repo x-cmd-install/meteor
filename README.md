@@ -12,6 +12,16 @@ A highly configurable CLI tool for writing conventional commits
 x install meteor
 ```
 
+## Code insight
+
+Total: **1,661** lines of code across **24** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 1,654 | 48 | 222 | 22 |
+| Makefile | 7 | 0 | 2 | 1 |
+| Markdown | 0 | 71 | 34 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/stefanlogue/meteor>
@@ -22,6 +32,25 @@ x install meteor
 - **Latest**: `v0.31.0` (2026-04-03)
 - **Last commit**: 2026-04-03
 - **Assets in release**: 9
+
+## Popularity
+
+- **Stars**: 439 · **Forks**: 24 · **Open issues**: 31 · **Contributors**: 9
+
+## Totals (cumulative)
+
+- **Releases**: 49 · **Merged PRs**: 52 · **Open PRs**: 4 · **Closed issues**: 27 · **Open issues**: 4 · **Commits**: 257
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 1 | 1 | 1 | 1 | 2 | 6 |
+| 360d | 2025-09-15 | 3 | 4 | 4 | 2 | 3 | 13 |
+| last720d | 2024-09-20 | 13 | 27 | 4 | 14 | 4 | 95 |
 
 ## Release assets
 
@@ -37,32 +66,6 @@ x install meteor
 | [meteor-windows-arm64.zip](https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-windows-arm64.zip) | 2.4 MiB | `native/win/arm64` |
 | [meteor_0.31.0_checksums.txt](https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor_0.31.0_checksums.txt) | 716 B | `other` |
 
-## Popularity
-
-- **Stars**: 439 · **Forks**: 24 · **Open issues**: 31 · **Contributors**: 9
-
-## Totals (cumulative)
-
-- **Releases**: 49 · **Merged PRs**: 52 · **Open PRs**: 4 · **Closed issues**: 27 · **Open issues**: 4 · **Commits**: 257
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 3 | 4 | 4 | 2 | 3 | 13 |
-
-## Code size
-
-Total: **1,661** lines of code across **24** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 1,654 | 48 | 222 | 22 |
-| Makefile | 7 | 0 | 2 | 1 |
-| Markdown | 0 | 71 | 34 | 1 |
-
 ## Improve this data
 
 Install metadata for meteor lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `meteor` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -72,4 +75,4 @@ Install metadata for meteor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:04:30Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:55:41Z._
