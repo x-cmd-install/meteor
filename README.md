@@ -22,7 +22,20 @@ x install meteor
 - **Latest**: `v0.31.0` (2026-04-03)
 - **Last commit**: 2026-04-03
 - **Assets in release**: 9
-- **Published**: 2026-04-03T09:40:19Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [meteor-darwin-amd64.zip](https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-darwin-amd64.zip) | 2.5 MiB | `native/darwin/x64` |
+| [meteor-darwin-arm64.zip](https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-darwin-arm64.zip) | 2.4 MiB | `native/darwin/arm64` |
+| [meteor-linux-386.zip](https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-linux-386.zip) | 2.2 MiB | `other` |
+| [meteor-linux-amd64.zip](https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-linux-amd64.zip) | 2.5 MiB | `native/linux/x64` |
+| [meteor-linux-arm64.zip](https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-linux-arm64.zip) | 2.3 MiB | `native/linux/arm64` |
+| [meteor-windows-386.zip](https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-windows-386.zip) | 2.4 MiB | `native/win/x64` |
+| [meteor-windows-amd64.zip](https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-windows-amd64.zip) | 2.6 MiB | `native/win/x64` |
+| [meteor-windows-arm64.zip](https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-windows-arm64.zip) | 2.4 MiB | `native/win/arm64` |
+| [meteor_0.31.0_checksums.txt](https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor_0.31.0_checksums.txt) | 716 B | `other` |
 
 ## Popularity
 
@@ -55,8 +68,8 @@ Total: **1,661** lines of code across **24** files in the top 5 languages.
 Install metadata for meteor lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `meteor` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/meteor.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/meteor.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:31:31Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:04:30Z._
