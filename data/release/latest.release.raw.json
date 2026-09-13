@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2638043,
       "digest": "sha256:1053baa9b04c41fa746c61a5edf1b15bed078814b4254d421eea067488dc6789",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-04-03T09:40:17Z",
       "updated_at": "2026-04-03T09:40:18Z",
       "browser_download_url": "https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-darwin-amd64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2501592,
       "digest": "sha256:60a910a85ea4d2a734baa62546727b372e3ab292575ee4cd4ce7e82edfd12adf",
-      "download_count": 170,
+      "download_count": 171,
       "created_at": "2026-04-03T09:40:17Z",
       "updated_at": "2026-04-03T09:40:17Z",
       "browser_download_url": "https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-darwin-arm64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2354720,
       "digest": "sha256:587f3018838dce6bb7d1b21dce4299a5e5bd25689ca63a41224f5720373b55c5",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-04-03T09:40:17Z",
       "updated_at": "2026-04-03T09:40:18Z",
       "browser_download_url": "https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-linux-386.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2591424,
       "digest": "sha256:5777daa357e5987dbc2d6f2bd0d64d1b908ddcbb7c34deec7401a8c46919417c",
-      "download_count": 406,
+      "download_count": 412,
       "created_at": "2026-04-03T09:40:18Z",
       "updated_at": "2026-04-03T09:40:18Z",
       "browser_download_url": "https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-linux-amd64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2404332,
       "digest": "sha256:c099548092799cb5bb1065d5a78958beaaa8c58d0ce659907566c53246442720",
-      "download_count": 225,
+      "download_count": 228,
       "created_at": "2026-04-03T09:40:18Z",
       "updated_at": "2026-04-03T09:40:18Z",
       "browser_download_url": "https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-linux-arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2493417,
       "digest": "sha256:7dd1b75d8fab88d8c8f4f9412743f3edfa009d9deb952ed49684402512955a1d",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-04-03T09:40:17Z",
       "updated_at": "2026-04-03T09:40:17Z",
       "browser_download_url": "https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-windows-386.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2710278,
       "digest": "sha256:688a1e39da57377ddddc005d5c1fa6d8b712467ccba73aa2df09757147bd246b",
-      "download_count": 79,
+      "download_count": 80,
       "created_at": "2026-04-03T09:40:17Z",
       "updated_at": "2026-04-03T09:40:17Z",
       "browser_download_url": "https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-windows-amd64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2473924,
       "digest": "sha256:7c7d92e626498e403e39fc9797524589f289fb3e9bf80508ba8f0c504435ca60",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-04-03T09:40:17Z",
       "updated_at": "2026-04-03T09:40:17Z",
       "browser_download_url": "https://github.com/stefanlogue/meteor/releases/download/v0.31.0/meteor-windows-arm64.zip"
